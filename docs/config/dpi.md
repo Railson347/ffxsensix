@@ -1,3 +1,4 @@
+12529438917
 # 🎯 Kalkulasi DPI & Sensivitas
 
 Sesuaikan DPI perangkat Anda untuk mendapatkan akurasi tembakan yang maksimal.
